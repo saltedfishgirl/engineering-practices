@@ -6,7 +6,7 @@ Google有许多通用工程实践，涵盖所有语言和所有项目。这些�
 目前，这包含以下文件：
 - [谷歌的代码审查指南](review/index.md)，实际上是两套独立的文件：
   - [代码审查员指南](review/reviewer/index.md)
-  - [变更作者指南](review/developer/index.md)
+  - [变更作者指南](review/developers/index.md)
 
 ## 术语
 其中一些文档中使用了一些Google内部术语，我们在此为外部读者澄清：
